@@ -10,7 +10,7 @@ Bilibili静态页面复刻是一个基于原版哔哩哔哩网站首页的静态
 
 预览图：
 
-![image-20250926125926110](./README.assets/image-20250926125926110.png)
+![image-20250926125926110](./README.assets/image-preview.png)
 
 ## **✨ 主要功能 (Features)**
 - **精确复刻的导航栏**
